@@ -37,7 +37,7 @@
 |---|---|---|
 | [MultiSum](https://github.com/chayma-saad/MultiSum) | Modular, agentic framework for multimodal video summarization | Python · LLMs |
 | [Sentiment-Analyzer](https://github.com/chayma-saad/Sentiment-Analyzer) | Real-time text sentiment app powered by Groq AI (Clean Architecture, BLoC, SQLite) | Flutter · Dart |
-| [AcriFeed](https://github.com/chayma-saad/AcriFeed) | Smart locust farm monitoring: sensor dashboards, ML condition prediction, alerts · [🌐 Live demo](https://chayma-saad.github.io/AcriFeed/) | Flutter · .NET · Flask |
+| [AcriFeed](https://github.com/chayma-saad/AcriFeed) | Smart locust farm monitoring: sensor dashboards, ML condition prediction, alerts · [🌐 Live demo](https://chayma-saad.github.io/AcriFeed/) · [🎬 Video](https://github.com/chayma-saad/AcriFeed/raw/main/final_acrifeed.webm) | Flutter · .NET · Flask |
 | [Codveda_internship](https://github.com/chayma-saad/Codveda_internship) | Data analytics work from my internship at Codveda Technology | Python · Jupyter |
 | [breast-cancer](https://github.com/chayma-saad/breast-cancer) | AI breast cancer diagnosis platform (ML models + FastAPI + React) · [🌐 Live demo](https://chayma-saad.github.io/breast-cancer/) | ML · FastAPI · React |
 | [Graph-based learning tracker](https://github.com/chayma-saad/Research-and-Design-of-a-graph-based-student-learning-tracker) | Research & design of a prerequisite-graph student tracking system | Research |
