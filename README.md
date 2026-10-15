@@ -8,10 +8,11 @@
 ---
 
 ### 🔭 What I work on
-- 🤖 **Machine Learning & NLP** — classification, sentiment analysis, text summarization
-- 🧠 **LLM & multi-agent systems** — agentic pipelines for BI automation and multimodal video summarization
+- 🤖 **Machine Learning & Deep Learning** — classification, medical diagnosis, fraud detection, forecasting
+- 🧠 **LLMs, NLP & agents** — sentiment analysis, multi-agent pipelines, multimodal video summarization
+- 🎯 **Reinforcement learning** — adversarial self-play (PPO) to harden fraud detectors
 - 📊 **Data analytics** — data cleaning, EDA, dashboards, end-to-end notebooks
-- 🚀 **Shipping models** — Docker, APIs, and web/mobile front-ends for ML
+- 🚀 **Shipping AI products** — APIs (FastAPI, Flask, .NET), web & mobile apps, Docker, CI/CD, cloud deployment
 
 ### 🛠️ Languages & Tools
 
@@ -20,7 +21,9 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,flutter,react&perline=10" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,dotnet,nextjs,tailwind,prisma&perline=10" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode&perline=10" />
 </p>
 
 <p align="left">
@@ -29,19 +32,28 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" />
 </p>
 
 ### 📌 Featured projects
 
-| Project | Description | Stack |
+#### 🧠 AI & Machine Learning
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| [**AI Breast Cancer Diagnosis**](https://github.com/chayma-saad/breast-cancer) | Multi-model diagnosis platform (Random Forest, SVM, neural nets) with explainability and PDF reports | scikit-learn · FastAPI · React · Docker | [🌐 Live demo](https://chayma-saad.github.io/breast-cancer/) |
+| [**Health-Insurance Fraud Detection**](https://github.com/chayma-saad/Fraud-and-Recovery-Detection-in-Health-Insurance-Claims) | Flags risky claims before payment on 1.4M real claims; a PPO "fraudster" attacks the detector, which is then retrained | XGBoost · LightGBM · SHAP · CTGAN · PPO | [📄 Code & reports](https://github.com/chayma-saad/Fraud-and-Recovery-Detection-in-Health-Insurance-Claims) |
+| [**RescuBite**](https://github.com/chayma-saad/RescuBite) | Food-waste platform for restaurants: demand forecasting, discounted surplus bags, charity donations | Next.js · TypeScript · Prisma | [🌐 Live demo](https://rescubite.onrender.com) |
+| [**AcriFeed**](https://github.com/chayma-saad/AcriFeed) | Smart locust-farm monitoring: sensor dashboards, ML condition prediction, alerts, AI assistant (EN/FR/AR) | Flutter · Flask · .NET · MySQL | [🌐 Live demo](https://chayma-saad.github.io/AcriFeed/) · [🎬 Video](https://github.com/chayma-saad/AcriFeed/raw/main/final_acrifeed.webm) |
+| [**Sentiment Analyzer**](https://github.com/chayma-saad/Sentiment-Analyzer) | Real-time sentiment analysis + motivational feedback with Llama 3.1 (Groq), Clean Architecture, CI/CD | Flutter · BLoC · LLM API | [🎬 Demo video](https://github.com/chayma-saad/Sentiment-Analyzer/blob/main/sentiment_analyzer_demo.mp4) |
+
+#### 📊 Data Analytics & Research
+| Project | What it does | Stack |
 |---|---|---|
-| [MultiSum](https://github.com/chayma-saad/MultiSum) | Modular, agentic framework for multimodal video summarization | Python · LLMs |
-| [Sentiment-Analyzer](https://github.com/chayma-saad/Sentiment-Analyzer) | Real-time text sentiment app powered by Groq AI (Clean Architecture, BLoC, SQLite) | Flutter · Dart |
-| [AcriFeed](https://github.com/chayma-saad/AcriFeed) | Smart locust farm monitoring: sensor dashboards, ML condition prediction, alerts · [🌐 Live demo](https://chayma-saad.github.io/AcriFeed/) · [🎬 Video](https://github.com/chayma-saad/AcriFeed/raw/main/final_acrifeed.webm) | Flutter · .NET · Flask |
-| [RescuBite](https://github.com/chayma-saad/RescuBite) | AI-powered food-waste platform: demand forecasting, discounted surplus bags, charity donations · [🌐 Live demo](https://rescubite.onrender.com) | Next.js · TypeScript · Prisma |
-| [Codveda_internship](https://github.com/chayma-saad/Codveda_internship) | Data analytics work from my internship at Codveda Technology | Python · Jupyter |
-| [breast-cancer](https://github.com/chayma-saad/breast-cancer) | AI breast cancer diagnosis platform (ML models + FastAPI + React) · [🌐 Live demo](https://chayma-saad.github.io/breast-cancer/) | ML · FastAPI · React |
-| [Graph-based learning tracker](https://github.com/chayma-saad/Research-and-Design-of-a-graph-based-student-learning-tracker) | Research & design of a prerequisite-graph student tracking system | Research |
+| [**Codveda Internship**](https://github.com/chayma-saad/Codveda_internship) | Data analytics internship: EDA, regression, time series, clustering, NLP and a Plotly Dash dashboard | Python · pandas · Plotly Dash |
+| [**Graph-based Learning Tracker**](https://github.com/chayma-saad/Research-and-Design-of-a-graph-based-student-learning-tracker) | Research & design of a prerequisite-graph system to guide and track students | Graph theory · Deep learning |
+
+🚧 **In progress:** MultiSum — a modular, agentic framework for multimodal video summarization (Python · LLMs).
 
 ### 📫 Let's connect
 <p align="left">
