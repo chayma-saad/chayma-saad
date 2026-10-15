@@ -50,7 +50,7 @@
 #### 📊 Data Analytics & Research
 | Project | What it does | Stack | Links |
 |---|---|---|---|
-| [**Codveda Internship**](https://github.com/chayma-saad/Codveda_internship) | Data analytics internship: EDA, regression, time series, clustering, NLP and a Plotly Dash dashboard | Python · pandas · Plotly Dash | [📊 Live dashboard](https://chayma-saad.github.io/Codveda_internship/iris_dashboard.html) |
+| [**Codveda Internship**](https://github.com/chayma-saad/Codveda_internship) | Data analytics internship: EDA, regression, time series, clustering, NLP and a Plotly Dash dashboard | Python · pandas · Plotly Dash | [🚀 Full Dash app](https://codveda-internship-cwdk.onrender.com) · [📊 Iris dashboard](https://chayma-saad.github.io/Codveda_internship/iris_dashboard.html) |
 | [**Graph-based Learning Tracker**](https://github.com/chayma-saad/Research-and-Design-of-a-graph-based-student-learning-tracker) | Research & design of a prerequisite-graph system to guide and track students | Graph theory · Deep learning | — |
 
 🚧 **In progress:** MultiSum — a modular, agentic framework for multimodal video summarization (Python · LLMs).
